@@ -1,0 +1,35 @@
+
+REPORTE DE VENTAS
+
+TOTAL GENERAL: $584864
+
+VENTAS POR REGION:
+region
+PED42022    24
+PED22023    22
+PED20229    22
+PED42023    20
+PED20235    20
+
+VENTAS POR TIENDA:
+tienda
+Tienda 4    112379
+Tienda 6    109185
+Tienda 1    103162
+Tienda 5    102189
+Tienda 3     88357
+
+METODOS DE PAGO:
+forma_pago
+Crédito     26063
+Débito      20427
+Efectivo    14709
+Nequi        8801
+
+VENTAS POR FECHA:
+fecha
+2022-01-01    355
+2022-01-02    383
+2022-01-03    437
+2022-01-04    408
+2022-01-05    373
